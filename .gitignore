@@ -1,0 +1,13 @@
+bak/*
+build/*
+loader/build/*
+loader/loader.bin
+loader/loader.elf
+loader/loader.sym
+code.bps
+code.bin
+exheader.bin
+linker.x
+newcode.bin
+newcode.elf
+newcode.sym

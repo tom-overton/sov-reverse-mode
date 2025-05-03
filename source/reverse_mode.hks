@@ -1,0 +1,5 @@
+ReverseModeHook:
+    type:   branch
+    link:   true
+    func:   ReverseModeAsm
+    addr:   0x0030bc70
