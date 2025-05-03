@@ -16,6 +16,6 @@ ReverseModeAsm:
     cmp        r0, #0x0
     bne        LAB_0030bca4
     ldrb       r1, [r5, #0x0]
-	add        r0, r4, #0x30
-	bl         FUN_00178960
+    add        r0, r4, #0x30
+    bl         FUN_00178960
     b          LAB_0030bca4
